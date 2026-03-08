@@ -1,4 +1,4 @@
-# qwiicWithForth
+# I2CWithForth
 
 Use sensors or other hardware connected via I2C from Forth.
 
